@@ -42,7 +42,10 @@ I'm also experienced in Python and the Django framework for back-end development
 
 ## 📈 GitHub Stats
 
-![Jeremiah's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeremiahpantaras&show_icons=true&theme=tokyonight)
+![Jeremiah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yirmeyahuu&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Yirmeyahuu&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yirmeyahuu&layout=compact&theme=tokyonight)
+
 
 ---
 
