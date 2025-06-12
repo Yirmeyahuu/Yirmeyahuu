@@ -52,8 +52,6 @@ I'm also experienced in Python and the Django framework for back-end development
 ## 📫 Let's Connect
 
 - 📍 Location: Bacolod City, Philippines  
-- 📧 Email: [jeremiahpantaras@gmail.com](mailto:jeremiahpantaras@gmail.com)  
-- 🌐 Portfolio: *[link to your portfolio]*  
-- 💼 LinkedIn: *[your LinkedIn profile]*
+- 📧 Email: [jeremiahpantaras@gmail.com](mailto:jeremiahpantaras@gmail.com)
 
 ---
