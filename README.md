@@ -21,6 +21,7 @@ I'm also experienced in Python and the Django framework for back-end development
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff&style=flat)
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=fff&style=flat)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff&style=flat)
+![Firestore](https://img.shields.io/badge/-Firestore-FFCA28?logo=firebase&logoColor=000&style=flat)
 
 ---
 
