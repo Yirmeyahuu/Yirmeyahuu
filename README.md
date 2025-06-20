@@ -32,6 +32,7 @@ I'm also experienced in Python and the Django framework for back-end development
 ![Adobe Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?logo=adobe-illustrator&logoColor=fff&style=flat)
 ![Adobe Premiere Pro](https://img.shields.io/badge/-Premiere%20Pro-9999FF?logo=adobe-premiere-pro&logoColor=fff&style=flat)
 ![Adobe After Effects](https://img.shields.io/badge/-After%20Effects-9999FF?logo=adobe-after-effects&logoColor=fff&style=flat)
+![DaVinci Resolve 20](https://img.shields.io/badge/-DaVinci%20Resolve%2020-1C1C1C?logo=blackmagicdesign&logoColor=FBBF24&style=flat)
 
 ---
 
