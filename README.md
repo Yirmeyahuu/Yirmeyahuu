@@ -3,7 +3,7 @@
 🎯 A 23-year-old aspiring Full-Stack Web Developer from Bacolod City, Philippines.
 
 I specialize in building creative and interactive websites using modern front-end tools like React, Vite, and Tailwind CSS.  
-I'm also experienced in Python and the Django framework for back-end development.
+I'm also experienced in Python and the Django framework for back-end development using databases – MySQL and Firestore.
 
 ---
 
