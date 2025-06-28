@@ -58,7 +58,8 @@ I'm also experienced in Python and the Django framework for back-end development
 
 ### 📱 Connect with Me
 
-- 📍 Location: Bacolod City, Philippines 
+- 📍 Location: Bacolod City, Philippines
+
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/https.poypoymignon)
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/poypoy.div)
