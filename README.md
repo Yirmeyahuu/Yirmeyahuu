@@ -9,6 +9,11 @@ I'm also experienced in Python and the Django framework for back-end development
 
 ## 🛠️ Tech Stack
 
+### 🎨 UI/UX Design
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
+![Framer](https://img.shields.io/badge/-Framer-0055FF?logo=framer&logoColor=white&style=flat)
+
+
 ### 💻 Frontend
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000&style=flat)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=fff&style=flat)
