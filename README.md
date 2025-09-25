@@ -22,7 +22,7 @@ I'm also experienced in Python and the Django framework for back-end development
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=flat)
 
-### 🧠 Backend
+### 🤖 Backend
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff&style=flat)
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=fff&style=flat)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff&style=flat)
