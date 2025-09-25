@@ -28,6 +28,13 @@ I'm also experienced in Python and the Django framework for back-end development
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff&style=flat)
 ![Firestore](https://img.shields.io/badge/-Firestore-FFCA28?logo=firebase&logoColor=000&style=flat)
 
+### 🧠 Machine Learning
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=fff&style=flat)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=fff&style=flat)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikit-learn&logoColor=fff&style=flat)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=fff&style=flat)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=fff&style=flat)
+
 ---
 
 ## 🎨 Creative Tools
