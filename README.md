@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Yirmeyahuu/Yirmeyahuu/main/assets/cover.png" alt="Header Banner">
+  <img src="https://raw.githubusercontent.com/Yirmeyahuu/Yirmeyahuu/main/assets/banner.png" alt="Header Banner">
 </p>
 
 <p align="center">
