@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/Yirmeyahuu">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00a6f4&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Jeremiah+P.+Pantaras+%F0%9F%91%8B;A+Full-Stack+Web+Developer;A+Creative+UI%2FX+Designer;From+Bacolod+City%2C+Philippines+%F0%9F%87%B5%F0%9F%87%AD" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=00a6f4&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Jeremiah+P.+Pantaras+%F0%9F%91%8B;A+Full-Stack+Web+Developer;A+Creative+UI%2FX+Designer;From+Bacolod+City%2C+Philippines+%F0%9F%87%B5%F0%9F%87%AD" alt="Typing SVG" />
   </a>
 </p>
 
