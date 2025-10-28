@@ -80,13 +80,7 @@
 
 ---
 
-### 🌱 Outside the Screen
-
-When I'm not coding, you can find me staying active: 🏃‍♂️ Running | 🏊 Swimming | 🚴 Cycling
-
----
-
-### 📈 My GitHub Stats
+� My GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yirmeyahuu&show_icons=true&theme=tokyonight&rank_icon=github" alt="Jeremiah's GitHub stats">
