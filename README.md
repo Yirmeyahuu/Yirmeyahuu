@@ -55,14 +55,36 @@
 
 ---
 
-� My GitHub Stats
+## 📊 My GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yirmeyahuu&show_icons=true&theme=tokyonight&rank_icon=github" alt="Jeremiah's GitHub stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Yirmeyahuu&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yirmeyahuu&layout=compact&theme=tokyonight" alt="Top Languages">
-</p>
+<div align="center">
+  
+  <!-- GitHub Stats Card -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yirmeyahuu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" alt="Jeremiah's GitHub stats"/>
+  
+  <!-- GitHub Streak Stats -->
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Yirmeyahuu&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+  
+</div>
+
+<div align="center">
+  
+  <!-- Top Languages -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yirmeyahuu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+  
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Yirmeyahuu&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+  
+</div>
+
+<div align="center">
+  
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yirmeyahuu&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
+  
+</div>
+
+---
 
 ---
 
