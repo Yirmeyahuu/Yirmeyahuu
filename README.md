@@ -77,15 +77,6 @@
   
 </div>
 
-<div align="center">
-  
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yirmeyahuu&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
-  
-</div>
-
----
-
 ---
 
 ### 📱 Connect with Me
