@@ -65,10 +65,6 @@
   <!-- GitHub Streak Stats -->
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Yirmeyahuu&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
   
-</div>
-
-<div align="center">
-  
   <!-- Top Languages -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yirmeyahuu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
   
