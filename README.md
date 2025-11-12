@@ -21,7 +21,7 @@
 </details>
 
 <details>
-  <summary>🧠 Backend Development</summary>
+  <summary>💻 Backend Development</summary>
   <p align="left">
     <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff&style=flat" alt="Python">
     <img src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=fff&style=flat" alt="Django">
