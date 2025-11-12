@@ -1,28 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Yirmeyahuu/Yirmeyahuu/main/assets/banner.png" alt="Header Banner">
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yirmeyahuu&label=PROFILE+VIEWS&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/Yirmeyahuu">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=00a6f4&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Jeremiah+P.+Pantaras+%F0%9F%91%8B;A+Full-Stack+Web+Developer;A+Creative+UI%2FX+Designer;From+Bacolod+City%2C+Philippines+%F0%9F%87%B5%F0%9F%87%AD" alt="Typing SVG" />
-  </a>
-</p>
-
----
-
-### About Me
-
-- 🎯 A 23-year-old **Full-Stack Web Developer** specializing in building creative and interactive websites.
-- 🎨 I bridge the gap between design and development using **Figma**, **React**, **Vite**, and **Tailwind CSS**.
-- 🧠 On the backend, I'm experienced with **Python** and the **Django framework**, connecting to databases like **MySQL** and **PostgreSQL**.
-- 🌱 I'm passionate about learning new technologies and exploring the intersections of code and creativity.
-
----
-
 ### 🛠️ My Tech Stack & Tools
 
 <details>
