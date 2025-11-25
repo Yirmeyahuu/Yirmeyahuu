@@ -68,9 +68,6 @@
   <!-- Top Languages -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yirmeyahuu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
   
-  <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Yirmeyahuu&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
-  
 </div>
 
 ---
