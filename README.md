@@ -1,5 +1,3 @@
-### 🛠️ My Tech Stack & Tools
-
 <details>
   <summary>🎨 UI/UX Design</summary>
   <p align="left">
@@ -55,8 +53,6 @@
 
 ---
 
-## 📊 My GitHub Stats
-
 <div align="center">
     <img width="400" src="https://github-readme-stats-psi-two-78.vercel.app/api?username=Yirmeyahuu&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
     <img width="425" src="https://github-readme-streak-stats.herokuapp.com/?user=Yirmeyahuu&theme=tokyonight&hide_border=true" />
@@ -64,8 +60,6 @@
 </div>
 
 ---
-
-### 📱 Connect with Me
 
 <p align="center">
   <a href="https://facebook.com/https.poypoymignon" target="_blank">
