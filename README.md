@@ -1,25 +1,17 @@
 
-<p align="left">
-  <img src="https://img.shields.io/badge/React-0A1633?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Vite-0A1633?style=for-the-badge&logo=vite&logoColor=646CFF" alt="Vite">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-0A1633?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4" alt="Tailwind CSS">
-  <img src="https://img.shields.io/badge/HTML5-0A1633?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-0A1633?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3">
-  <img src="https://img.shields.io/badge/Bootstrap-0A1633?style=for-the-badge&logo=bootstrap&logoColor=7952B3" alt="Bootstrap">
-</p>
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-0A1633?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python">
-  <img src="https://img.shields.io/badge/Django-0A1633?style=for-the-badge&logo=django&logoColor=092E20" alt="Django">
-  <img src="https://img.shields.io/badge/MySQL-0A1633?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL">
-  <img src="https://img.shields.io/badge/Firebase_Firestore-0A1633?style=for-the-badge&logo=firebase&logoColor=FFCA28" alt="Firestore">
-</p>
-<p align="left">
-  <img src="https://img.shields.io/badge/NumPy-0A1633?style=for-the-badge&logo=numpy&logoColor=013243" alt="NumPy">
-  <img src="https://img.shields.io/badge/Pandas-0A1633?style=for-the-badge&logo=pandas&logoColor=150458" alt="Pandas">
-  <img src="https://img.shields.io/badge/Scikit_Learn-0A1633?style=for-the-badge&logo=scikit-learn&logoColor=F7931E" alt="Scikit-Learn">
-  <img src="https://img.shields.io/badge/TensorFlow-0A1633?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/PyTorch-0A1633?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" alt="PyTorch">
-</p>
+<div align="center">
+  <p align="center">
+    <img src="https://img.shields.io/badge/TypeScript-0A1633?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript">
+    <img src="https://img.shields.io/badge/React-0A1633?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+    <img src="https://img.shields.io/badge/Vite-0A1633?style=for-the-badge&logo=vite&logoColor=646CFF" alt="Vite">
+    <img src="https://img.shields.io/badge/Tailwind_CSS-0A1633?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4" alt="Tailwind CSS">
+    <img src="https://img.shields.io/badge/GSAP-0A1633?style=for-the-badge&logo=greensock&logoColor=88CE02" alt="GSAP">
+  </p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Python-0A1633?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python">
+    <img src="https://img.shields.io/badge/Django-0A1633?style=for-the-badge&logo=django&logoColor=092E20" alt="Django">
+  </p>
+</div>
 
 ---
 
