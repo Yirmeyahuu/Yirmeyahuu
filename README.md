@@ -1,44 +1,44 @@
 ### 🎨 UI/UX Design
 <p align="left">
-  <img src="https://img.shields.io/badge/Figma-141414?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma">
-  <img src="https://img.shields.io/badge/Framer-141414?style=for-the-badge&logo=framer&logoColor=0055FF" alt="Framer">
+  <img src="https://img.shields.io/badge/Figma-0A1633?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma">
+  <img src="https://img.shields.io/badge/Framer-0A1633?style=for-the-badge&logo=framer&logoColor=0055FF" alt="Framer">
 </p>
 
 ### 💻 Frontend Development
 <p align="left">
-  <img src="https://img.shields.io/badge/React-141414?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Vite-141414?style=for-the-badge&logo=vite&logoColor=646CFF" alt="Vite">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-141414?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4" alt="Tailwind CSS">
-  <img src="https://img.shields.io/badge/HTML5-141414?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-141414?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3">
-  <img src="https://img.shields.io/badge/Bootstrap-141414?style=for-the-badge&logo=bootstrap&logoColor=7952B3" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/React-0A1633?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Vite-0A1633?style=for-the-badge&logo=vite&logoColor=646CFF" alt="Vite">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0A1633?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/HTML5-0A1633?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-0A1633?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3">
+  <img src="https://img.shields.io/badge/Bootstrap-0A1633?style=for-the-badge&logo=bootstrap&logoColor=7952B3" alt="Bootstrap">
 </p>
 
 ### 💻 Backend Development
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-141414?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python">
-  <img src="https://img.shields.io/badge/Django-141414?style=for-the-badge&logo=django&logoColor=092E20" alt="Django">
-  <img src="https://img.shields.io/badge/MySQL-141414?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL">
-  <img src="https://img.shields.io/badge/Firebase_Firestore-141414?style=for-the-badge&logo=firebase&logoColor=FFCA28" alt="Firestore">
+  <img src="https://img.shields.io/badge/Python-0A1633?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python">
+  <img src="https://img.shields.io/badge/Django-0A1633?style=for-the-badge&logo=django&logoColor=092E20" alt="Django">
+  <img src="https://img.shields.io/badge/MySQL-0A1633?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL">
+  <img src="https://img.shields.io/badge/Firebase_Firestore-0A1633?style=for-the-badge&logo=firebase&logoColor=FFCA28" alt="Firestore">
 </p>
 
 ### 🤖 Machine Learning
 <p align="left">
-  <img src="https://img.shields.io/badge/NumPy-141414?style=for-the-badge&logo=numpy&logoColor=013243" alt="NumPy">
-  <img src="https://img.shields.io/badge/Pandas-141414?style=for-the-badge&logo=pandas&logoColor=150458" alt="Pandas">
-  <img src="https://img.shields.io/badge/Scikit_Learn-141414?style=for-the-badge&logo=scikit-learn&logoColor=F7931E" alt="Scikit-Learn">
-  <img src="https://img.shields.io/badge/TensorFlow-141414?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/PyTorch-141414?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" alt="PyTorch">
+  <img src="https://img.shields.io/badge/NumPy-0A1633?style=for-the-badge&logo=numpy&logoColor=013243" alt="NumPy">
+  <img src="https://img.shields.io/badge/Pandas-0A1633?style=for-the-badge&logo=pandas&logoColor=150458" alt="Pandas">
+  <img src="https://img.shields.io/badge/Scikit_Learn-0A1633?style=for-the-badge&logo=scikit-learn&logoColor=F7931E" alt="Scikit-Learn">
+  <img src="https://img.shields.io/badge/TensorFlow-0A1633?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/PyTorch-0A1633?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" alt="PyTorch">
 </p>
 
 ### 🎨 Creative Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-141414?style=for-the-badge&logo=adobe%20photoshop&logoColor=31A8FF" alt="Photoshop">
-  <img src="https://img.shields.io/badge/Adobe%20Lightroom-141414?style=for-the-badge&logo=adobe%20lightroom&logoColor=31A8FF" alt="Lightroom">
-  <img src="https://img.shields.io/badge/Adobe%20Illustrator-141414?style=for-the-badge&logo=adobe%20illustrator&logoColor=FF9A00" alt="Illustrator">
-  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-141414?style=for-the-badge&logo=adobe%20premiere%20pro&logoColor=9999FF" alt="Premiere Pro">
-  <img src="https://img.shields.io/badge/Adobe%20After%20Effects-141414?style=for-the-badge&logo=adobe%20after%20effects&logoColor=9999FF" alt="After Effects">
-  <img src="https://img.shields.io/badge/DaVinci_Resolve-141414?style=for-the-badge&logo=blackmagicdesign&logoColor=FBBF24" alt="DaVinci Resolve">
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-0A1633?style=for-the-badge&logo=adobe%20photoshop&logoColor=31A8FF" alt="Photoshop">
+  <img src="https://img.shields.io/badge/Adobe%20Lightroom-0A1633?style=for-the-badge&logo=adobe%20lightroom&logoColor=31A8FF" alt="Lightroom">
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-0A1633?style=for-the-badge&logo=adobe%20illustrator&logoColor=FF9A00" alt="Illustrator">
+  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-0A1633?style=for-the-badge&logo=adobe%20premiere%20pro&logoColor=9999FF" alt="Premiere Pro">
+  <img src="https://img.shields.io/badge/Adobe%20After%20Effects-0A1633?style=for-the-badge&logo=adobe%20after%20effects&logoColor=9999FF" alt="After Effects">
+  <img src="https://img.shields.io/badge/DaVinci_Resolve-0A1633?style=for-the-badge&logo=blackmagicdesign&logoColor=FBBF24" alt="DaVinci Resolve">
 </p>
 
 ---
