@@ -1,55 +1,45 @@
-<details>
-  <summary>🎨 UI/UX Design</summary>
-  <p align="left">
-    <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat" alt="Figma">
-    <img src="https://img.shields.io/badge/-Framer-0055FF?logo=framer&logoColor=white&style=flat" alt="Framer">
-  </p>
-</details>
+### 🎨 UI/UX Design
+<p align="left">
+  <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat" alt="Figma">
+  <img src="https://img.shields.io/badge/-Framer-0055FF?logo=framer&logoColor=white&style=flat" alt="Framer">
+</p>
 
-<details>
-  <summary>💻 Frontend Development</summary>
-  <p align="left">
-    <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000&style=flat" alt="React">
-    <img src="https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=fff&style=flat" alt="Vite">
-    <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwind-css&logoColor=fff&style=flat" alt="Tailwind CSS">
-    <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff&style=flat" alt="HTML5">
-    <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff&style=flat" alt="CSS3">
-    <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=flat" alt="Bootstrap">
-  </p>
-</details>
+### 💻 Frontend Development
+<p align="left">
+  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000&style=flat" alt="React">
+  <img src="https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=fff&style=flat" alt="Vite">
+  <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwind-css&logoColor=fff&style=flat" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff&style=flat" alt="HTML5">
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff&style=flat" alt="CSS3">
+  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=flat" alt="Bootstrap">
+</p>
 
-<details>
-  <summary>💻 Backend Development</summary>
-  <p align="left">
-    <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff&style=flat" alt="Python">
-    <img src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=fff&style=flat" alt="Django">
-    <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff&style=flat" alt="MySQL">
-    <img src="https://img.shields.io/badge/-Firestore-FFCA28?logo=firebase&logoColor=000&style=flat" alt="Firestore">
-  </p>
-</details>
+### 💻 Backend Development
+<p align="left">
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff&style=flat" alt="Python">
+  <img src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=fff&style=flat" alt="Django">
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff&style=flat" alt="MySQL">
+  <img src="https://img.shields.io/badge/-Firestore-FFCA28?logo=firebase&logoColor=000&style=flat" alt="Firestore">
+</p>
 
-<details>
-  <summary>🤖 Machine Learning</summary>
-  <p align="left">
-    <img src="https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=fff&style=flat" alt="NumPy">
-    <img src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=fff&style=flat" alt="Pandas">
-    <img src="https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikit-learn&logoColor=fff&style=flat" alt="Scikit-Learn">
-    <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=fff&style=flat" alt="TensorFlow">
-    <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=fff&style=flat" alt="PyTorch">
-  </p>
-</details>
+### 🤖 Machine Learning
+<p align="left">
+  <img src="https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=fff&style=flat" alt="NumPy">
+  <img src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=fff&style=flat" alt="Pandas">
+  <img src="https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikit-learn&logoColor=fff&style=flat" alt="Scikit-Learn">
+  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=fff&style=flat" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=fff&style=flat" alt="PyTorch">
+</p>
 
-<details>
-  <summary>🎨 Creative Tools</summary>
-  <p align="left">
-    <img src="https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobe-photoshop&logoColor=fff&style=flat" alt="Photoshop">
-    <img src="https://img.shields.io/badge/-Lightroom-31A8FF?logo=adobe-lightroom&logoColor=fff&style=flat" alt="Lightroom">
-    <img src="https://img.shields.io/badge/-Illustrator-FF9A00?logo=adobe-illustrator&logoColor=fff&style=flat" alt="Illustrator">
-    <img src="https://img.shields.io/badge/-Premiere%20Pro-9999FF?logo=adobe-premiere-pro&logoColor=fff&style=flat" alt="Premiere Pro">
-    <img src="https://img.shields.io/badge/-After%20Effects-9999FF?logo=adobe-after-effects&logoColor=fff&style=flat" alt="After Effects">
-    <img src="https://img.shields.io/badge/-DaVinci%20Resolve%2020-1C1C1C?logo=blackmagicdesign&logoColor=FBBF24&style=flat" alt="DaVinci Resolve">
-  </p>
-</details>
+### 🎨 Creative Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobe-photoshop&logoColor=fff&style=flat" alt="Photoshop">
+  <img src="https://img.shields.io/badge/-Lightroom-31A8FF?logo=adobe-lightroom&logoColor=fff&style=flat" alt="Lightroom">
+  <img src="https://img.shields.io/badge/-Illustrator-FF9A00?logo=adobe-illustrator&logoColor=fff&style=flat" alt="Illustrator">
+  <img src="https://img.shields.io/badge/-Premiere%20Pro-9999FF?logo=adobe-premiere-pro&logoColor=fff&style=flat" alt="Premiere Pro">
+  <img src="https://img.shields.io/badge/-After%20Effects-9999FF?logo=adobe-after-effects&logoColor=fff&style=flat" alt="After Effects">
+  <img src="https://img.shields.io/badge/-DaVinci%20Resolve%2020-1C1C1C?logo=blackmagicdesign&logoColor=FBBF24&style=flat" alt="DaVinci Resolve">
+</p>
 
 ---
 
