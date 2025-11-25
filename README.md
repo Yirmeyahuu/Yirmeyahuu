@@ -94,7 +94,3 @@
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
 </p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Yirmeyahuu/Yirmeyahuu/output/github-contribution-grid-snake.svg" alt="contribution snake">
-</p>
