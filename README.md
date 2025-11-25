@@ -26,21 +26,21 @@
 
 <p align="center">
   <a href="https://facebook.com/https.poypoymignon" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook">
+    <img src="https://img.shields.io/badge/Facebook-0A1633?style=for-the-badge&logo=facebook&logoColor=1877F2" alt="Facebook">
   </a>
   <a href="https://instagram.com/poypoy.div" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram">
+    <img src="https://img.shields.io/badge/Instagram-0A1633?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram">
   </a>
   <a href="https://www.linkedin.com/in/jeremiah-pantaras-47092b368/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A1633?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn">
   </a>
   <a href="https://github.com/Yirmeyahuu" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=flat&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-0A1633?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="mailto:jeremiahpantaras@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail">
+    <img src="https://img.shields.io/badge/Gmail-0A1633?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail">
   </a>
   <a href="https://wa.me/(+63)9085608811" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp">
+    <img src="https://img.shields.io/badge/WhatsApp-0A1633?style=for-the-badge&logo=whatsapp&logoColor=25D366" alt="WhatsApp">
   </a>
 </p>
