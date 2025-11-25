@@ -58,16 +58,9 @@
 ## 📊 My GitHub Stats
 
 <div align="center">
-  
-  <!-- GitHub Stats Card -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yirmeyahuu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" alt="Jeremiah's GitHub stats"/>
-  
-  <!-- GitHub Streak Stats -->
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Yirmeyahuu&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
-  
-  <!-- Top Languages -->
+   <img width="400" src="https://github-readme-stats.vercel.app/api?username=Yirmeyahuu&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+   <img width="425" src="https://github-readme-streak-stats.herokuapp.com/?user=Yirmeyahuu&theme=tokyonight&hide_border=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yirmeyahuu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
-  
 </div>
 
 ---
