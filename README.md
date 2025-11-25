@@ -10,6 +10,8 @@
   <p align="center">
     <img src="https://img.shields.io/badge/Python-0A1633?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python">
     <img src="https://img.shields.io/badge/Django-0A1633?style=for-the-badge&logo=django&logoColor=092E20" alt="Django">
+    <img src="https://img.shields.io/badge/Ollama-0A1633?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama">
+    <img src="https://img.shields.io/badge/PostgreSQL-0A1633?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL">
   </p>
 </div>
 
